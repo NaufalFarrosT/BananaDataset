@@ -1,0 +1,9 @@
+# train and val data
+train: ../BananaDataset/images/train/
+val: ../BananaDataset/images/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ['banana']
